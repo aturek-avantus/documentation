@@ -162,6 +162,34 @@
       "description": "Update a Cloud Workload Security Agent rule returns \"OK\" response"
     }
   ],
+  "CreateCloudflareAccount": [
+    {
+      "group": "cloudflare_integration",
+      "suffix": "_2142508409",
+      "description": "Add Cloudflare account returns \"OK\" response using auth key"
+    }
+  ],
+  "GetCloudflareAccount": [
+    {
+      "group": "cloudflare_integration",
+      "suffix": "_1762136079",
+      "description": "Get Cloudflare account returns \"OK\" response"
+    }
+  ],
+  "ListCloudflareAccounts": [
+    {
+      "group": "cloudflare_integration",
+      "suffix": "_2444693758",
+      "description": "List Cloudflare accounts returns \"OK\" response"
+    }
+  ],
+  "UpdateCloudflareAccount": [
+    {
+      "group": "cloudflare_integration",
+      "suffix": "_2732659026",
+      "description": "Update Cloudflare account returns \"OK\" response"
+    }
+  ],
   "CreateConfluentResource": [
     {
       "group": "confluent_cloud",
